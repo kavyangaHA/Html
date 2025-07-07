@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My first web page</title>
+        <style>
+            img{
+                width:100px;
+                border-radius:50px;
+                float:left;
+                margin-right:10px;
+
+            }
+            .username{
+                font-weight:bold;
+            }
+
+        </style>
+    </head>
+    <body>
+       <img src="images/1.png" alt="pixel image of a girl"> 
+       <p class ="username">Hii I'm learning HTML</p>
+       <p>I love this</p>
+    </body>
+</html>
